@@ -1,0 +1,8 @@
+allowed_domains: 
+  - <your_domain: example.com>
+start_urls:
+  - <the_starting_point https://www.example.com>
+handle_httpstatus_list:
+  - 404
+  - 500
+  - 403
